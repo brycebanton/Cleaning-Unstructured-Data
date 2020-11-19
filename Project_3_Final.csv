@@ -1,4 +1,4 @@
-,Symbol,Side,Cxl,Quantity,Price,Bid,Ask,TDats,Dats,DatsTradeID,TradeTime,TradeSS,TradeCommType,SourceCommison,Account,OrderID,GTL,TrailerInfo,TrailerSymbol,Clr,Random1,Ranom2
+,Symbol,Side,Cxl,Quantity,Price,Bid,Ask,TDats,Dats,DatsTradeID,TradeTime,TradeSS,TradeCommType,SourceCommison,Account,OrderID,GTL,TrailerInfo,TrailerSymbol,Clr,TrailerID,Unkown
 0,CERS,SS,NEW,2756,2.4,2.34,2.45,1406,1917061,49900003,09:30,CustSS,704,PerUnit,TERM,0.01,AABBC,1706149900003,GSCO,0,256945,854300
 1,CERS,SS,NEW,100,2.36,2.36,2.37,1406,1917061,49900003,10:20,ContraSSFREX,704,PerUnit,TERM,0.01,AABBC,1706149900003,CERS,4,866087,854300
 2,CERS,SS,NEW,200,2.35,2.35,2.37,1406,1917061,49900003,10:20,ContraSSFREX,704,PerUnit,TERM,0.01,AABBC,1706149900003,CERS,4,866096,854300
